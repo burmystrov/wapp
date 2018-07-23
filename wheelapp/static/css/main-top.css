@@ -1,0 +1,133 @@
+img{
+ 	border: 0;
+}
+table{
+ 	border-spacing: 0;
+}
+a{
+ 	text-decoration: underline;
+}
+.table-body{
+	background-color: #efefef;
+	width: 100%;
+	table-layout: fixed;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+.main-table{
+	max-width: 600px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #555555;
+	font-size: 14px;
+	margin: auto;
+}
+.collum{
+	width: 297px;
+	display: inline-block;
+}
+.main-table caption,
+.main-table caption>a,
+.main-table caption>a span{
+	font-size: 12px;
+	color:#acabab;
+}
+.main-table caption{
+	margin: 5px 0;
+}
+.thead>tr>.logo{
+    border-top-left-radius:5px;
+    -moz-border-radius-topleft:5px;
+}
+.thead>tr>.contact{
+	border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+}
+.tbody .thanks td{
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    -moz-border-radius-bottomleft:5px;
+    -moz-border-radius-bottomright:5px;
+}
+.header{
+	background-color: #38b552;
+}
+.logo{
+	padding: 20px 15px;
+}
+.logo img{
+	width: 100%;
+    max-width: 190px;
+    height: auto;
+}
+.contact{
+	padding: 30px 20px;
+}
+.contact a,
+.contact a span{
+	color: #ffffff;
+	text-decoration: none;
+}
+.tbody{
+	background-color: #ffffff;
+}
+.tbody td{
+	padding: 0 20px;
+}
+.invite .h3{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 15px 0;
+}
+.main-text{
+	text-align: justify;
+}
+.link a,
+.link a span{
+	font-size: 18px;
+	color:#21ba4e;
+}
+.img img{
+	width: 100%;
+    max-width: 560px;
+    height: auto;
+}
+.bnt-buy,
+.bnt-buy span{
+	color: #ffffff;
+	background-color: #38b552;
+	text-decoration: none;
+}
+.bnt-buy{
+	display: inline-block;
+	padding: 20px 40px;
+	margin: 30px 0;
+	border-radius: 5px;
+}
+.thanks td{
+	font-size: 14px;
+	color:#acabab;
+	background-color: #e9e8e8;
+	font-weight: bold;
+}
+.footer td{
+	background-color: #efefef;
+	font-size: 12px;
+	color:#acabab;
+}
+.footer>tr>td{
+	padding-top: 20px;
+}
+.collum td{
+	padding: 0 3px 20px 3px;
+}
+.footer a,
+.footer a span{
+	color:#acabab;
+}
+.footer p{
+	margin: 0;
+}
+.social a{
+	margin-left: 10px;
+}

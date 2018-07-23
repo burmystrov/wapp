@@ -1,0 +1,43 @@
+# Python #
+##########
+*.py[co]
+*.sw[pon]
+*.mo
+*~
+.coverage
+__pycache__
+
+# Logs and databases #
+######################
+*.db*
+*.log
+*.sql
+*.sqlite
+pip-log.txt
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# IDE #
+#######
+.idea
+*.sublime-project
+*.sublime-workspace
+
+
+# Project #
+###########
+media
+.env
+celerybeat-schedule
+.vagrant
+wheelapp/cache
+.tox/
