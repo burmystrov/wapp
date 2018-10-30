@@ -9,7 +9,7 @@ django-filter==0.10.0
 django-modeltranslation==0.10
 factory-boy==2.5.2
 fake-factory==0.5.1
-Pillow==2.9.0
+Pillow==3.1.1
 exam==0.10.5
 rauth==0.7.1
 django-model-utils==2.2
